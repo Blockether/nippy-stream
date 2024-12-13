@@ -1,0 +1,7 @@
+.lsp/.cache
+.cpcache
+.vscode
+.calva
+.portal
+edd-format
+.clj-kondo/.cache
